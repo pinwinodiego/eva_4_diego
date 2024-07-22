@@ -18,7 +18,7 @@ const Barra = () => {
               <Nav.Link href="/RegistrarMoto">registro de motos</Nav.Link>
               <Nav.Link href="/VerUsuarios">visualizar usuarios</Nav.Link>
               <Nav.Link href="VerMotos">visualizar motos</Nav.Link>
-              <Nav.Link href="/login">logout</Nav.Link>
+              <Nav.Link href="/Login">logout</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
